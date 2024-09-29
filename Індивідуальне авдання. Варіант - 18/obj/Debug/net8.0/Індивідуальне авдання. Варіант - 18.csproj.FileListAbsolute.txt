@@ -1,0 +1,14 @@
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\bin\Debug\net8.0\Індивідуальне авдання. Варіант - 18.exe
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\bin\Debug\net8.0\Індивідуальне авдання. Варіант - 18.deps.json
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\bin\Debug\net8.0\Індивідуальне авдання. Варіант - 18.runtimeconfig.json
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\bin\Debug\net8.0\Індивідуальне авдання. Варіант - 18.dll
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\bin\Debug\net8.0\Індивідуальне авдання. Варіант - 18.pdb
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\obj\Debug\net8.0\Індивідуальне авдання. Варіант - 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\obj\Debug\net8.0\Індивідуальне авдання. Варіант - 18.AssemblyInfoInputs.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\obj\Debug\net8.0\Індивідуальне авдання. Варіант - 18.AssemblyInfo.cs
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\obj\Debug\net8.0\Індивідуальне авдання. Варіант - 18.csproj.CoreCompileInputs.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\obj\Debug\net8.0\Індивідуальне авдання. Варіант - 18.dll
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\obj\Debug\net8.0\refint\Індивідуальне авдання. Варіант - 18.dll
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\obj\Debug\net8.0\Індивідуальне авдання. Варіант - 18.pdb
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\obj\Debug\net8.0\Індивідуальне авдання. Варіант - 18.genruntimeconfig.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Індивідуальне авдання. Варіант - 18\obj\Debug\net8.0\ref\Індивідуальне авдання. Варіант - 18.dll
